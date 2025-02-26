@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on AI智能体学苑</title>
+        <link>http://localhost:1313/page/</link>
+        <description>Recent content in Pages on AI智能体学苑</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>关于我们</title>
+        <link>http://localhost:1313/page/about/</link>
+        <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/about/</guid>
+        <description>&lt;h1 id=&#34;关于ai智能体学苑&#34;&gt;关于AI智能体学苑
+&lt;/h1&gt;&lt;p&gt;AI智能体学苑致力于分享AI相关知识和经验，帮助更多人了解和使用人工智能技术。&lt;/p&gt;
+&lt;h2 id=&#34;我们的使命&#34;&gt;我们的使命
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;传播AI知识&lt;/li&gt;
+&lt;li&gt;分享实践经验&lt;/li&gt;
+&lt;li&gt;探讨前沿技术&lt;/li&gt;
+&lt;li&gt;培养AI人才&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;欢迎关注我们的博客，一起探索AI的无限可能！&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
